@@ -1,6 +1,8 @@
 
 createdByManji Portfolio Website Documentation
 
+++++ I uploaded imagess in HQ. Therefore the site takes some time to load fully, specially in the portfolio section. Please be kind enough to be patience and wait till it compleatly loaded. ++++
+
 Project Overview
 
 The createdByManji Portfolio Website, designed and developed by Manjitha Abeysinghe, serves as a captivating showcase of digital creations, video editing projects, and various multimedia skills. The website aims to provide visitors with an immersive experience, highlighting Manjitha's talents, achievements, and a diverse range of digital endeavors.
