@@ -1,7 +1,7 @@
 
 createdByManji Portfolio Website Documentation
 
-++++ I uploaded imagess in HQ. Therefore the site takes some time to load fully, specially in the portfolio section. Please be kind enough to be patience and wait till it compleatly loaded. ++++
+++++ I uploaded imagess in HQ. Therefore the site takes some time to load fully when hosted. Specially in the portfolio section. Please be kind enough to be patience and wait till it compleatly loaded. ++++
 
 Project Overview
 
