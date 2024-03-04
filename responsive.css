@@ -1,0 +1,39 @@
+/* responsive.css */
+
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
+    /* Adjustments for smaller screens go here */
+    body {
+        font-size: 14px;
+    }
+
+    /* Example: Hide navigation icons on small screens */
+    .navbar a {
+        display: none;
+    }
+
+    .navbar .active {
+        display: initial;
+    }
+
+    /* Example: Adjust padding on the home section for smaller screens */
+    .home-content {
+        padding: 20px;
+    }
+}
+
+/* Tablet Styles */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Adjustments for tablet-sized screens go here */
+    body {
+        font-size: 16px;
+    }
+}
+
+/* Large Screens */
+@media only screen and (min-width: 1025px) {
+    /* Adjustments for larger screens go here */
+    body {
+        font-size: 18px;
+    }
+}
