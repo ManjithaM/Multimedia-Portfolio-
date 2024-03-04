@@ -19,7 +19,7 @@ CSS Files:
 -   **styles.css**: Defines the layout, typography, and colors to create an aesthetically pleasing visual experience.
 -   **responsive.css**: Ensures a seamless display of content across various devices for optimal user experience.
 
-avaScript File:
+JavaScript File:
 
 -   **script.js**: Enhances interactivity with smooth scrolling and form validation, contributing to a dynamic user interface.
 
